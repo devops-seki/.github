@@ -3,16 +3,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/senad-d/senad-d.github.io/blob/e82b925bc807706c09bd2d7b544caaece6e665df/_media/gif/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elangosundar&label=Profile%20views&color=0e75b6&style=flat" alt="elangosundar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devops-seki&label=Profile%20views&color=0e75b6&style=flat" alt="elangosundar" /> </p>
 
 <br/>
 <br/>
 
-- 🌱 I’m currently learning **Terraform, Kubernetes**
+- 🌱 Share your knowledge with us on topics such as: **Terraform, Kubernetes**
 
+- 💬 Join and participate in our and your development of skills <br/>that will enable you to be better at what you do.
+  
 - 📝 I regularly write documentation on [senad-d.github.io](https://senad-d.github.io/)
-
-- 💬 Ask me about **AWS, Linux, Bash**
 
 <br/>
 <br/>
@@ -24,20 +24,7 @@
   <a href="www.linkedin.com/in/dizdarevic-senad">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio.seki.ink/">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
-  </a>
 </div>
 <br/>
-<br/>
-
- 
-<h1 align="center"> Languages - Tools </h1>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,vscode,git,github,linux,bash,photoshop" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,azure,grafana,githubactions,nginx" />
-</div>
-
 <br/>
 <hr/>
