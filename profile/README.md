@@ -1,5 +1,5 @@
 
-<h3 align="center">DevOps from Croatia</h3>
+<h3 align="center">DevOps Guides & Tools</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/senad-d/senad-d.github.io/blob/e82b925bc807706c09bd2d7b544caaece6e665df/_media/gif/giphy.gif">
 
@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-- 🌱 Share your knowledge with us on topics such as: **Terraform, Kubernetes**
+- 🌱 Share your knowledge with us on topics such as: **AWS, Terraform, Kubernetes, CloudFormation, Bash...**
 
 - 💬 Join and participate in our and your development of skills <br/>that will enable you to be better at what you do.
   
